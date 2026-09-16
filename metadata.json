@@ -1,0 +1,6 @@
+{
+  "name": "Spatial7",
+  "description": "Enterprise Spatial Digital Twin & Asset Management Platform across Agriculture, Local Government, Education, and Industrial sectors with PostGIS & RLS architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
